@@ -1,0 +1,24 @@
+{
+  "name": "webpack_train",
+  "version": "1.0.0",
+  "description": "Training Material for WebPack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gandhi-jay/webpack_train.git"
+  },
+  "keywords": [
+    "nodejs",
+    "webpack",
+    "javascript"
+  ],
+  "author": "Jay Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gandhi-jay/webpack_train/issues"
+  },
+  "homepage": "https://github.com/gandhi-jay/webpack_train#readme"
+}
